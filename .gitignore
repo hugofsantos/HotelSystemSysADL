@@ -1,0 +1,10 @@
+# Saídas de compilação / arquivos gerados pelo Eclipse
+bin/
+target/
+
+# Configurações do ambiente do Eclipse específicas da máquina local
+.settings/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
